@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Tomas Illuminati](mailto:tomas.illuminati@owasp.org)
+* [Oscar Niss](mailto:oscar.niss@owasp.org)
