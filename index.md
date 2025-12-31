@@ -2,23 +2,60 @@
 
 layout: col-sidebar
 title: OWASP Rosario
-tags: example-tag
+tags: rosario argentina latam appsec research threat-intelligence compliance 
 region: South America
 country: Argentina
 meetup-group: owasp-rosario
 
 ---
 
-## Welcome
-Include some information here about your chapter
+## Security Begins Here
+¡Bienvenidos al Capítulo OWASP Rosario!
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Este capítulo reúne a pentesters, analistas de Threat Intelligence, CISOs, desarrolladores, security researchers y a toda persona comprometida con el desarrollo seguro y la investigación en ciberseguridad.
+Somos un espacio abierto para aprender, compartir conocimiento y colaborar, con el objetivo de construir juntos una industria tecnológica más segura y resiliente.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Te invitamos a integrarte a una comunidad comprometida con el crecimiento, la mejora continua y el desarrollo de proyectos e investigaciones en ciberseguridad.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+_"Trust Nothing. Verify Everything."_
+
+---
+
+## ¿Qué Contenidos Puedes Esperar?
+
+Nuestro enfoque es compartir conocimiento mediante charlas, talleres y recursos sobre:
+
+- OWASP Top 10 y el ecosistema OWASP.
+- Threat Modeling y análisis de riesgos
+- OSINT y threat intelligence
+- Pentesting y análisis de vulnerabilidades
+- Seguridad en APIs y aplicaciones web modernas
+- Bug bounty programs y disclosure responsable
+- Compliance, regulaciones y frameworks de seguridad
+- Reverse engineering y malware analysis.
+
+----
+
+## Participación
+
+**Todos son bienvenidos para:**
+
+- Asistir a nuestros eventos
+- Participar en proyectos
+- Proponer temas para charlas y/o Proyectos
+- Conectar con otros profesionales de seguridad
+- Fortalecer la comunidad AppSec local e Internacional
+
+Para cualquier consulta o propuesta, podés contactarnos a través de nuestras redes sociales o mediante este correo de [contacto oficial](mailto:tomas.illuminati@owasp.org).
+
+---
+
+Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Estamos organizando nuestros eventos para 2026.
+
+**¡Entérate de las novedades en:**
+- [Meetup OWASP Rosario](https://www.meetup.com/es-es/owasp-rosario/)
+- [OWASP Rosario LinkedIn](https://www.linkedin.com/company/owasp-rosario-chapter)
+
