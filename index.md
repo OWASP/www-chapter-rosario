@@ -56,6 +56,6 @@ Next Meeting/Event
 Estamos organizando nuestros eventos para 2026.
 
 **¡Entérate de las novedades en:**
-- [Meetup OWASP Rosario](https://www.meetup.com/es-es/owasp-rosario/)
+- [Meetup OWASP Rosario](https://www.meetup.com/owasp-rosario-chapter/)
 - [OWASP Rosario LinkedIn](https://www.linkedin.com/company/owasp-rosario-chapter)
 
